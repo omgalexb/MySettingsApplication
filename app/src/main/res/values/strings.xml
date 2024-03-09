@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">My Settings</string>
+    <string name="settings_title">Settings</string>
+    <string name="theme">Theme</string>
+    <string name="dark_theme">Dark Theme</string>
+    <string name="light_theme">Light Theme</string>
+    <string name="language">Language</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="hello_world">Hello World</string>
+</resources>
